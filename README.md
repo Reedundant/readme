@@ -1,5 +1,4 @@
 # Reedundant
-# Reedundant
 
 <h1 align="center">Hi 👋, I'm Reed</h1>
 <h3 align="center">A curious Project Manager located in Montreal.</h3>
